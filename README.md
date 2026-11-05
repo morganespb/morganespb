@@ -19,7 +19,7 @@ Before code, I ran events for a Y Combinator startup and led a 20-person team in
 `Python` `JavaScript` `Go` `C` `C++` `Rust` `SQL` `Docker` `Linux`
 
 ### 📫 Find me
-[LinkedIn](https://www.linkedin.com/in/morgane-simon-03832b162) · mspbt@hotmail.fr
+[LinkedIn](https://www.linkedin.com/in/morgane-simon-03832b162) · 
 
 <!--
 **morganespb/morganespb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
