@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/morganespb/morganespb/main/neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
-</p>
-   
+<img src="neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
 ## Hi there 👋
 
 <!--
