@@ -1,16 +1,17 @@
 <img src="neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
 
-```bash
-$ whoami
-Morgane SP — full stack engineer @ 42 Paris
-$ cat about.txt
-I build across the stack: LLM tooling, concurrent backends and clean, playful interfaces.
+
+<h3 align="center">Hi, I'm Morgane 👋</h3>
+
+<p align="center">
+Full stack engineer at 42 Paris, building LLM tooling, concurrent backends and clean, playful interfaces.<br>
 Before code, I ran events for a Y Combinator startup and led a 20-person team in Costa Rica 🌴
-$ ls projects/
-call-me-maybe/   rag-against-the-machine/   tap/   a-maze-ing/
-```
+</p>
+
+---
 
 ### 🕹️ Currently building
+- **[Call Me Maybe](https://github.com/morganespb/call_me_maybe)** — constrained decoding that forces an LLM to output valid function calls
 - **RAG against the machine** — Q&A over the vLLM codebase with retrieval-augmented generation
 - **TAP** — a multiplayer text-adventure server in Go, built with my team
 
