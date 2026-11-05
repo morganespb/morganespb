@@ -1,5 +1,4 @@
 <img src="neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
-
 ```bash
 $ whoami
 Morgane SP — full stack engineer @ 42 Paris
