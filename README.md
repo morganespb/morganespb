@@ -1,3 +1,7 @@
+   <p align="center">
+     <img src="neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
+   </p>
+   
 ## Hi there 👋
 
 <!--
