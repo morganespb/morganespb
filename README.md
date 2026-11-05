@@ -1,10 +1,10 @@
 <img src="neon-banner.svg" alt="Morgane SP – Full Stack Engineer" width="100%">
 
 
-<h3 align="center">Hi, I'm Morgane 👋</h3>
+<h3 align="center">Hi 👋</h3>
 
 <p align="center">
-Full stack engineer at 42 Paris, building LLM tooling, concurrent backends and clean, playful interfaces.<br>
+Student @42 Paris, building LLM tooling, concurrent backends and clean, playful interfaces.<br>
 Before code, I ran events for a Y Combinator startup and led a 20-person team in Costa Rica 🌴
 </p>
 
